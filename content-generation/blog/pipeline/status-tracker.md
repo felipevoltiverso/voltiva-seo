@@ -1,6 +1,6 @@
 # status-tracker.md — Pipeline de Contenido Voltiva Blog
 
-**Última actualización**: Junio 2026
+**Última actualización**: 2026-06-15
 
 ---
 
@@ -22,9 +22,12 @@
 
 ## Pipeline activo
 
-| # | Keyword | Status | Asignado a | Fecha brief | Fecha post | URL publicada | Notas |
-|---|---------|--------|------------|-------------|------------|---------------|-------|
-| — | — | — | — | — | — | — | Sistema recién iniciado |
+| # | Keyword | Status | Fecha post | Archivo |
+|---|---------|--------|------------|---------|
+| 1 | como funciona la energia solar colombia | `post_generado` | 2026-06-15 | `posts/2026-06-15-como-funciona-la-energia-solar-colombia.md` |
+| 2 | cuanto cuesta instalar paneles solares colombia | `post_generado` | 2026-06-15 | `posts/2026-06-15-cuanto-cuesta-instalar-paneles-solares-colombia.md` |
+| 3 | beneficios energia solar colombia | `post_generado` | 2026-06-15 | `posts/2026-06-15-beneficios-energia-solar-colombia.md` |
+| 4 | ley 1715 energia solar colombia | `post_generado` | 2026-06-15 | `posts/2026-06-15-ley-1715-energia-solar-colombia.md` |
 
 ---
 
@@ -32,29 +35,17 @@
 
 | Keyword | URL | Fecha publicación | Posición actual | Tráfico/mes |
 |---------|-----|------------------|-----------------|-------------|
-| — | — | — | — | — |
+| — | — | Pendiente de publicar en CMS | — | — |
 
 ---
 
-## En pausa ⏸️
+## Próximos en cola (de topics-queue.md)
 
-| Keyword | Razón | Fecha | Próximo paso |
-|---------|-------|-------|--------------|
-| — | — | — | — |
+| Keyword | Prioridad |
+|---------|-----------|
+| energia solar para casas colombia | Alta |
+| paneles solares colombia precio | Alta |
+| en cuanto tiempo se pagan los paneles solares | Alta |
+| energia solar para empresas colombia | Media |
+| paneles solares medellin | Media |
 
----
-
-## Descartados ❌
-
-| Keyword | Razón del descarte | Fecha |
-|---------|-------------------|-------|
-| — | — | — |
-
----
-
-## Instrucciones de uso
-
-1. Cuando se inicia un brief: mover keyword de `topics-queue.md` a este tracker con status `brief_en_progreso`
-2. Actualizar el status a medida que el contenido avanza por el pipeline
-3. Una vez publicado: agregar URL y comenzar a monitorear posición y tráfico
-4. Revisar posiciones mensualmente y documentar aquí
